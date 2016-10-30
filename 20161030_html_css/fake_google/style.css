@@ -1,0 +1,17 @@
+ul {
+	list-style: none;
+}
+
+ul li {
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.right {
+	float: right;
+}
+
+#main {
+	clear: right;
+}
